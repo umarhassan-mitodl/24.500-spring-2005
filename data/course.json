@@ -23,6 +23,7 @@
     "website": "24-500-topics-in-philosophy-of-mind-self-knowledge-spring-2005"
   },
   "course_title": "Topics in Philosophy of Mind: Self-Knowledge",
+  "hide_download": true,
   "course_description": "This is a seminar on \"self-knowledge\" -- knowledge of one's own mental states. In addition to reading some of the classic papers on self-knowledge, we will look at some very recent work on the topic. There will be no lectures. Each week I will spend half an hour or so introducing the assigned reading, and the rest of the time will be devoted to discussion.\n",
   "department_numbers": [
     "24"
@@ -33,6 +34,7 @@
     "content": "6041cf36-3ec6-4649-a473-8cd0c5f6684c",
     "website": "24-500-topics-in-philosophy-of-mind-self-knowledge-spring-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes"
   ],

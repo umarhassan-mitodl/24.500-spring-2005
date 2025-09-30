@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides bibliographic citations of course readings, organized
   by session and topic.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -42,7 +44,7 @@ Introduction
 {{< tdopen >}}
 
 
-Gertler. {{% resource_link "ab85fdef-5230-4de4-ae3f-fd59c80f9262" "_Self-knowledge_" %}}. (Contains a useful bibliography, among other things)
+Gertler. [_Self-knowledge_](http://plato.stanford.edu/entries/self-knowledge/). (Contains a useful bibliography, among other things)
 
 Ryle, Gilbert. Chapter 6 in _The Concept of Mind_. Chicago, IL: University of Chicago Press, 2000. ISBN: 0226732967.
 
@@ -110,9 +112,9 @@ Davies, "Externalism, architecturalism, and epistemic warrant."\*
 
 Wright, C. "Cogency and Question-Begging: Some Reflections on McKinsey's Paradox and Putnam's Proof." In _Philosophical Issues_. 1998. (SOFIA volume)
 
-{{% resource_link "1cf6484f-87e5-4e3d-87ff-ae1aaa912d64" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Brown, J. Chapter 7 in {{% resource_link "1cf6484f-87e5-4e3d-87ff-ae1aaa912d64" "_Anti-Individualism and Knowledge_" %}}. Cambridge, MA: MIT Press, 2004. ISBN: 0262025582.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/anti-individualism-and-knowledge) Brown, J. Chapter 7 in [_Anti-Individualism and Knowledge_](https://mitpress.mit.edu/books/anti-individualism-and-knowledge). Cambridge, MA: MIT Press, 2004. ISBN: 0262025582.
 
-Pryor. "Externalism about content and McKinsey-style reasoning." ({{% resource_link "b907f07e-9bcd-433e-affd-d2c803dd0a4a" "PDF" %}})
+Pryor. "Externalism about content and McKinsey-style reasoning." ([PDF](http://www.jimpryor.net/research/papers/McKinsey2001.pdf))
 
 
 {{< tdclose >}}
@@ -156,7 +158,7 @@ Shoemaker, S. "Self-reference and self-awareness." _Journal of Philosophy_ 65, n
 
 Evans, G. _The Varieties of Reference_. Oxford, UK: Clarendon Press, 1984. ISBN 0198246862.
 
-Pryor. "Immunity to error through misidentification." ({{% resource_link "c4a423a7-432c-4c3c-ac1c-01f606c30c63" "PDF - 4.1 MB" %}})
+Pryor. "Immunity to error through misidentification." ([PDF - 4.1 MB](http://www.jimpryor.net/research/papers/IEM.pdf))
 
 O'Brien, L. F. "Evans on self-identification." _NOUS_ 29, no. 2 (1995): 232-247.
 
@@ -204,11 +206,11 @@ Knowledge of One's Actions
 {{< tdopen >}}
 
 
-Velleman, J. D. {{% resource_link "f20e3592-5ff0-41bd-8016-dc44e680f0ed" "_Practical Reflection_" %}}.
+Velleman, J. D. [_Practical Reflection_](https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/9/177/files/2009/02/velleman-practical-reflection-new-intro.pdf).
 
-———. {{% resource_link "25eee985-ba8d-4ef4-9c0b-c8dd6da95efa" "_Precis of The Possibility of Practical Reason_" %}}.
+———. [_Precis of The Possibility of Practical Reason_](https://deepblue.lib.umich.edu/handle/2027.42/43367).
 
-{{% resource_link "22a0b2f5-c9be-42c8-9ce4-66bf72ed2af4" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Wegner, D. M. {{% resource_link "22a0b2f5-c9be-42c8-9ce4-66bf72ed2af4" "_The Illusion of Conscious Will_" %}}. Cambridge, MA: MIT Press, 2003. ISBN: 0262731622.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/illusion-conscious-will) Wegner, D. M. [_The Illusion of Conscious Will_](https://mitpress.mit.edu/books/illusion-conscious-will). Cambridge, MA: MIT Press, 2003. ISBN: 0262731622.
 
 Anscombe, G. E. M. _Intention._ 2nd ed. Cambridge, MA: Harvard University Press, 2000. ISBN: 0674003993.
 
